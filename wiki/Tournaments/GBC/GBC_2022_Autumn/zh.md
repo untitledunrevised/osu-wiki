@@ -128,7 +128,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [linear ring with RNAcid - Gypsophila (MyZterioN-) \[heartsick(1.05x rate)\]](https://osu.ppy.sh/beatmapsets/1805950#mania/3703574)
   2. [goreshit - thinking of you (Shoegazer) \[eternity 1.05x (238bpm)\]](https://osu.ppy.sh/beatmapsets/1749736#mania/3583117)
   3. [Cataclysmic Order - VENDeTTA (tyrcs) \[four\]](https://osu.ppy.sh/beatmapsets/1887401#mania/3886671)
-  4. [SPACELECTRO feat. irony - Treasure you [nmk Remix] (-Deepdive-) \[ I can't get over you (cut) 1.05x (162bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1875969#mania/3860579)
+  4. [SPACELECTRO feat. irony - Treasure you [nmk Remix] (-Deepdive-) \[I can't get over you (cut) 1.05x (162bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1875969#mania/3860579)
   5. [DJ TOTTO - Crystalia (Benson_) \[Splash\]](https://osu.ppy.sh/beatmapsets/1846420#mania/3792940)
   6. [kaitendaentai - Toki no Ryousen (Alptraum) \[Spiral Fragment\]](https://osu.ppy.sh/beatmapsets/1768813#mania/3620827)
   7. [Apo11o"QUASAR"program feat. Endou Shun - saihate (YuEast 2018) \[Dormancy\]](https://osu.ppy.sh/beatmapsets/1857688#mania/3818062)
