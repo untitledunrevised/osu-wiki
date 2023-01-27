@@ -144,7 +144,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - SV
   1. [K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla (Speed Up) (\[GB\]Mafufu) \[The Baddest \[SV\] \[OD6\]\]](https://osu.ppy.sh/beatmapsets/1834853#mania/3771834)
   2. [linear ring - Enchanted Love (Kamikho) \[Nerfed\]](https://osu.ppy.sh/beatmapsets/1512651#mania/3903541)
-- Tiebreaker
+- TieBreaker
   1. **[Kou! - High Speed Particle Collider-beam Accelerator (Hylotl) \[Tevatron (w/ YuEast 2018)\]](https://osu.ppy.sh/beatmapsets/1897369#mania/3910505)**
 
 ### 十六强赛 & 八强赛
@@ -171,7 +171,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - SV
   1. [Sakuraburst - Aethersong (RuleBlazing) \[Vapour Pressure\]](https://osu.ppy.sh/beatmapsets/1201543#mania/2502539)
   2. [Aphex Twins - Bbydhyonchord (arccat) \[Quignogs\]](https://osu.ppy.sh/beatmapsets/1458480#mania/2997174)
-- Tiebreaker
+- TieBreaker
   1. **[Camellia - Upload Your Mind :: Download My Soul (Muses) \[Void\]](https://osu.ppy.sh/beatmapsets/1239434#mania/3889595)**
 
 ### 常规赛第 3 & 4 周
@@ -196,7 +196,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - SV
   1. [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
   2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) ([GB]Mafufu) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
-- Tiebreaker
+- TieBreaker
   1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
 
 ### 常规赛第 1 & 2 周
@@ -221,7 +221,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - SV
   1. [Airuei - Framework (H1Pur) \[Structures\]](https://osu.ppy.sh/beatmapsets/1465676#mania/3010240)
   2. [Fellsius - Talk (Cut ver.) (Muses) \[talk with sv\]](https://osu.ppy.sh/beatmapsets/1815218#mania/3723860)
-- Tiebreaker
+- TieBreaker
   1. **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (\_Kobii) \[Brilliance (edit)\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
 
 ### 资格赛
