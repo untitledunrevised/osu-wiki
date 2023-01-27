@@ -181,7 +181,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - Rice
   1. [LEC - it's over, but NOT FOR ME. (\[GB\]Luoxuan0327) \[Beatmap's Belief (edit) \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1880247#mania/3871217)
   2. [Kotori - Nanamori (youth Remix) (Shoegazer) \[Escapade\]](https://osu.ppy.sh/beatmapsets/1360301#mania/3186828)
-  3. [Yamamoto Momiji - Fantastic\*To-ryanse! (YuEast 2018) \[\[edit x1.05\] (GBC autumn 2022 edit)\]](https://osu.ppy.sh/beatmapsets/1492558#mania/3846005)
+  3. [Yamamoto Momiji - Fantastic\*To-ryanse! (YuEast 2018) \[edit x1.05\]](https://osu.ppy.sh/beatmapsets/1492558#mania/3846005)
   4. [Dormir - Sayonara Trip (Hylotl) \[Himitsu 2022\]](https://osu.ppy.sh/beatmapsets/1869488#mania/3846372)
   5. [Nanashi Mumei - A New Start (\[GB\]Sanae) \[Flawless World (126bpm)\]](https://osu.ppy.sh/beatmapsets/1868394#mania/3843759)
   6. [T.B.K - Louve d’Automne (-Deepdive-) \[Automne d'Automne\]](https://osu.ppy.sh/beatmapsets/1827113#mania/3772113)
