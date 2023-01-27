@@ -134,7 +134,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   7. [Apo11o"QUASAR"program feat. Endou Shun - saihate (YuEast 2018) \[Dormancy\]](https://osu.ppy.sh/beatmapsets/1857688#mania/3818062)
 - Hybrid
   1. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (stupud man) \[DIVINE PUNISHMENT\]](https://osu.ppy.sh/beatmapsets/1849062#mania/3798338)
-  2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master(od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
+  2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master (od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
   3. [Kobaryo - SUPER EMULATOR \[feat. HiTNEX-X\] (\[GB\]Luoxuan0327) \[5361 Goncharov\]](https://osu.ppy.sh/beatmapsets/1811945#mania/3885930)
 - LN
   1. [DECO\*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
