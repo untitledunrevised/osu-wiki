@@ -195,7 +195,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   3. [M2U - Gypsy Tronic (Stability) \[Raveille\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
 - SV
   1. [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
-  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
+  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) ([GB]Mafufu) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
 - Tiebreaker
   1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
 
