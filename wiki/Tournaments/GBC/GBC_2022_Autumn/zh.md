@@ -137,7 +137,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master(od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
   3. [Kobaryo - SUPER EMULATOR \[feat. HiTNEX-X\] (\[GB\]Luoxuan0327) \[5361 Goncharov\]](https://osu.ppy.sh/beatmapsets/1811945#mania/3885930)
 - LN
-  1. [DECO*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
+  1. [DECO\*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
   2. [Kurenainagi Tabibito - Otenba Koimusume (zzzzzzsa6177) \[Frozen World\]](https://osu.ppy.sh/beatmapsets/1828368#mania/3752505)
   3. [3R2 - Corruption (YuEast 2018) \[x1.00\]](https://osu.ppy.sh/beatmapsets/1857687#mania/3818058)
   4. [MoVIIkA - Ms. Steam (tyrcs) \[od7\]](https://osu.ppy.sh/beatmapsets/1887403#mania/3886673)
@@ -164,7 +164,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   2. [3L - Miracle Hinacle (-Deepdive-) \[Misfortune DispelLN (cut) 1.15x (186bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/1298827#mania/3862920)
   3. [technoplanet - Intuition (11Bit) \[Instinct\]](https://osu.ppy.sh/beatmapsets/1737565#mania/3551424)
 - LN
-  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
+  1. [DECO\*27/Giga-P - Cinderella (\[GB\]Mafufu) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
   2. [senya - Youyoumu no Gotoku (\[GB\]Sanae) \[Truth\]](https://osu.ppy.sh/beatmapsets/1771856#mania/3627515)
   3. [WolF.R - Snow Wish (Muses) \[Frozen edit\]](https://osu.ppy.sh/beatmapsets/1451720#mania/2985094)
   4. [AAAA - Carnation (MyZterioN-) \[Stage 4: Dianthus\]](https://osu.ppy.sh/beatmapsets/1789154#mania/3665962)
@@ -197,7 +197,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
   2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) ([GB]Mafufu) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
 - TieBreaker
-  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
+  1. **[ayo - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
 
 ### 常规赛第 1 & 2 周
 
